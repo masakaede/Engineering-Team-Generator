@@ -1,7 +1,7 @@
 # Engineering-Team-Generator
 
 ## Description
-A command-line application that takes in information about employees and generates an HTML webpage that displays summaries for each person.
+A command-line application that takes in information about employees and generates an HTML webpage that displays summaries for each person
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -16,11 +16,13 @@ A command-line application that takes in information about employees and generat
 2.	You can type the following code at terminal to check if node.js is installed
 	>  node –-version
 3.	If node version doesn’t show up, you can download it from https://nodejs.org/en/download/
-4.	The files you need to run the program are the files in the folders of lib, and templates as well as app.js and package.json
-5.	The files in the lib folders are tested by the files in the test folder
-6.	Type the following code to install package
+4.	The following files are what you need to run the program
+	- lib/
+	- templates/
+	- app.js
+	- package.json
+5.	Type the following code at terminal to install package
 	>  npm install
-
 
 ## Usage
 1.	Type the following code at terminal to run the CLI
@@ -33,7 +35,7 @@ A command-line application that takes in information about employees and generat
 	-	office number
 	-	github username
 	-	school
-4.	Once all the questions answered, the webpage of engineer-team will be created
+4.	Once all the team-members inserted, select exit to exit the program and the webpage of engineer-team will be created
 
 ## Demo
 Click on the pic to see the demo video
@@ -49,6 +51,7 @@ Please submit a **Pull request** if you would like to contribute to the project
 Type the following code at terminal to run the test
 >  npm run test
 <img src="./assets/images/Engineering-Team-Generator-Test.png" alt="test-image">
+
 ## Questions
 * Follow me at: <a href="https://github.com/masakaede" target="_blank">https://github.com/masakaede</a>
 
